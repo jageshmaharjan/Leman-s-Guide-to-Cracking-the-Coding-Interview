@@ -31,5 +31,5 @@ def find_max_container(container):
     return max_vol
 
 
-res = find_max_container(given)
-print(res)
+result = find_max_container(given)
+print(result)
